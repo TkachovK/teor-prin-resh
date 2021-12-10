@@ -1,3 +1,13 @@
 /* .homepage {
     text-align: center;
 } */
+.form-container{
+    background-color: white;
+    padding: 40px;
+}
+h5{
+    color: black;
+}
+.form-text {
+    color: black;
+}

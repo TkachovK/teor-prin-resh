@@ -17,6 +17,9 @@ const Header = () => {
           <li>
             <Link to='/gurviz/'>Метод Гурвіца</Link>
           </li>
+          <li>
+            <Link to='/results/'>Результати тестування</Link>
+          </li>
         </ul>
       </div>
     </div>
